@@ -1,0 +1,6 @@
+# Referenced at D:\Projetos\SalomaoDev\App\novoappcenter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:20
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Projetos\SalomaoDev\App\novoappcenter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:25
+-keep class com.example.appcenter.MainActivity { <init>(); }
+# Referenced at D:\Projetos\SalomaoDev\App\novoappcenter\build\app\intermediates\merged_manifests\release\arm64-v8a\AndroidManifest.xml:20
+-keep class io.flutter.app.FlutterApplication { <init>(); }
